@@ -13,7 +13,7 @@
 - Learnt of new algorithms to solve the 2x2 more efficiently
 - Know the positions of each color in respect to each other and know my rubik's cube a little notation better
 - Much slower than the beginner's method that I know by heart at the moment
-- Struggling a little bit with the algorithms (P2L)
+- Struggling a little bit with the algorithms (mainly P2L)
 
 ## Log Date: Tuesday December 18th 2018
 1. What did I try to learn?
@@ -32,13 +32,14 @@
 ## Log Date: Thursday December 20th 2018/Friday December 21st 2018
 1. What did I try to learn?
 - Main focus on trying to understand P2L as well as when (which case) to use which algorithm for both OLL and P2L
-- To successfully solve the first face 
--
+- To successfully solve the first face efficiently
+- To start to memorize some of the algorithms
 2. How did I try to learn it?
 - A lot more practice
 - Used the PDF for the algorithms
--
+- Asked some other people who understood these algorithms better than myself
 3. What were the end results?
-- Can solve the first two layers
--
--
+- Can solve the first two layers (still need the algorithms for the OLL to solve the second layer and the first layer takes me longer than it should)
+- I know the cases to use OLL but still have trouble with P2L
+- Although I didn't time myself in front of my teacher, for now the beginners method seems to be much faster for me at the moment until I can grasp the Ortega method 
+- Determined to learn the Ortega Method (one day)
